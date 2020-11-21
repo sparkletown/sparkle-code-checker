@@ -44,6 +44,3 @@ redis-data-*
 
 # Codes
 codes.txt
-
-# Secrets
-src/secrets.*
